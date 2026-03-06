@@ -1,4 +1,4 @@
-🚀 **Live Demo:** [your-app-link-here](https://stock-finder-by-interest-ilzcgdgpav54ujzvfd33gh.streamlit.app/)
+🚀 **Live Demo:** [Stock Finder by Interest](https://stock-finder-by-interest-ilzcgdgpav54ujzvfd33gh.streamlit.app/)
 
 # Stock Finder by Interest
 
