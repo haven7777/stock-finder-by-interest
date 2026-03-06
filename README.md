@@ -1,3 +1,5 @@
+🚀 **Live Demo:** [your-app-link-here](https://stock-finder-by-interest-ilzcgdgpav54ujzvfd33gh.streamlit.app/)
+
 # Stock Finder by Interest
 
 Discover stocks related to your personal interests and get real-time AI-powered analysis.
