@@ -1,0 +1,6 @@
+streamlit
+yfinance
+plotly
+groq
+tavily-python
+python-dotenv
